@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "utwN73tyxDw4sbOtaMtbZbNCnYLEoH+b1UPp2JD1mgA=",
+  "Source": "server",
+  "BasePath": "_content/server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "server/wwwroot",
+      "Source": "server",
+      "ContentRoot": "/Users/ayeletda/Desktop/Apple-application/server/wwwroot/",
+      "BasePath": "_content/server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ayeletda/Desktop/Apple-application/server/wwwroot/airpods_2.jpg",
+      "SourceId": "server",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ayeletda/Desktop/Apple-application/server/wwwroot/",
+      "BasePath": "_content/server",
+      "RelativePath": "airpods_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/airpods_2.jpg"
+    }
+  ]
+}
